@@ -6,7 +6,10 @@ namespace constructor_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
+            //ConstructorTest Aku = 
+                new ConstructorTest();
+
         }
     }
 }
